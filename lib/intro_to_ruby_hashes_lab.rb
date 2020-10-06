@@ -4,6 +4,7 @@ end
 
 def my_hash
   my_hash[car:mitsubishi]
+  my_hash
 end
 
 def pioneer
