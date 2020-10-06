@@ -4,9 +4,9 @@ end
 
 def my_hash
   my_hash[car:mitsubishi]
-  my_hash
 end
-
+my_hash
+end
 def pioneer
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
 end
