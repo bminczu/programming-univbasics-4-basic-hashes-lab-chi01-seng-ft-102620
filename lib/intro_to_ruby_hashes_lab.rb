@@ -10,8 +10,6 @@ end
 def pioneer
 {name:"Grace Hopper"}
 end
-name
-end
 
 
 def id_hash_generator(number)
